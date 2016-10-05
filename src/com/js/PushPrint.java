@@ -7,6 +7,7 @@ public class PushPrint {
 		System.out.println("Add Java Class");
 		System.out.println("Local Change JAVA");
 		System.out.println("Master Change Class");
+		System.out.println("World with 42");
 	}
 
 }

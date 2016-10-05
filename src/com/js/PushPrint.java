@@ -9,6 +9,7 @@ public class PushPrint {
 		System.out.println("Master Change Class");
 		System.out.println("Local Master Hi");
 		System.out.println("World with 42");
+		System.out.println("Remote pull Test");
 	}
 
 }
